@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(245, 176, 86);
+}
+
+nav.carta {
+position: relative;
+    top: 100px;
+}
+img.imagen {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 50px;
+    left: 100px;
+}
+
+nav.elcafe {
+    position: relative;
+    top: 100px;
+    left: 600px;
+}
+img.imagen2 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 100px;
+    left: 700px;
+}
+
+nav.contacto {
+    position: relative;
+    top: 250px;
+    left: 1100px;
+}
+img.imagen3 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 150px;
+    left: 1200px;
+}
