@@ -2,6 +2,10 @@ body {
     background-color: rgb(245, 176, 86);
 }
 
+h1 {
+    color: brown;
+}
+
 nav.carta {
 position: relative;
     top: 100px;
